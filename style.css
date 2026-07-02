@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(Webg.jpg) no-repeat center;
+    background: url("Webg.jpg") no-repeat center;
     background-size: cover;
 }
 
